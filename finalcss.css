@@ -1,0 +1,51 @@
+
+.root
+{
+
+    -fx-font-size: 10pt;
+
+}
+
+
+.button
+
+{
+ 
+   -fx-text-fill: #006464;
+  
+   -fx-color: lightblue; 
+   
+-fx-padding: 5;
+
+}
+
+#pane
+{
+  
+  -fx-background-color: gray;
+
+}
+
+#searchPane
+
+{
+    
+   -fx-background-color: gray;
+
+}
+
+#grdPane
+
+{
+
+    -fx-background-color: lightcoral;
+
+}
+
+#stuName
+
+{
+ 
+   -fx-background-color: lightgoldenrodyellow;
+
+}
